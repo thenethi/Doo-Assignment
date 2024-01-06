@@ -27,7 +27,7 @@
 
 #### Must Have
 
-    * Display a list of products. Each product should include a name, image, price, and a "Add to Cart" button.
+    * Display a list of products. Each product should include a name, image, price, and an "Add to Cart" button.
     * Implement pagination or infinite scrolling to load more products.
     * Fetch product data from a mock e-commerce API like Fake Store API or any similar service.
     * Allow users to add and remove products from the cart.
@@ -51,12 +51,12 @@
 ## Resources
 
 ### APIs
-
-    Used an API https://fakestoreapi.com/docs
+    Product, Product Items, Product Item Details
+    Reference - https://fakestoreapi.com/docs
 
 ### Third-party packages
 
-    No Third-party packages has been used.
+    No Third-party packages have been used.
 
 ## Setup Instructions
     * run npm install to install the dependencies in your terminal.
