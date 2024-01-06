@@ -52,7 +52,7 @@
 
 ### APIs
     Product, Product Items, Product Item Details
-    Used an API https://fakestoreapi.com/docs
+    Reference - https://fakestoreapi.com/docs
 
 ### Third-party packages
 
