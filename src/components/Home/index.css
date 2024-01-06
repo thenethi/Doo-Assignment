@@ -81,6 +81,7 @@
     .home-container{
         background-image: url('https://s3-alpha-sig.figma.com/img/b958/9bc0/1aa1b3314e80bff2d0c88522a5f26608?Expires=1705276800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rjtir1SqUT1ATdGzRXishuCaBFMwdE9f328CtFaXXSMkfvZBOpnlhJMFKlXtQUOPkQD8fDB6q218eA7lxbhvs460s3uw~-QpAHMfREmEalhk7o6UWr5HjTS0Jqe6~G43Cx7Z7UbJbEv7rKNP41~aZxyrz1utnwwa6uY-ffKKfIFlm~V48JTbBcdGCwgLKZAc5iOWXCdFN74Ljwrw0medUFqvovhVT5exq3lcxSNsyGsoMFVd5bdIIPcqmqtGXWdkdHIT0VihLdJ1vK7eeg6yPieGDTNLujdAYL3xfRfLab~G149dqLAXhua1zG5cKaB9mFGR4q2kh-FoQhlBgZ-MyQ__');
         background-size: cover;
-        height: 100vh;
+        height: 100%;
+        width: 100%;
     }
 }
