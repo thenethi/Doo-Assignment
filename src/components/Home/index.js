@@ -13,11 +13,11 @@ const Home=()=>(
                 <img src="https://res.cloudinary.com/de2lwnsu7/image/upload/v1704534836/star_vjpysq.png" alt="star-img" className="star-image"/>
                 <h1 className="head">NEW WEEK,</h1>
                 <h1 className="head">NEW ARRIVALS</h1>
-                <button type="button" className="shop-now-button">
                 <Link to="/products" className="link-text">
-                    Shop Now <FaArrowRight className='arrow-icon'/>
-                </Link>    
-                </button>
+                    <button type="button" className="shop-now-button">
+                        Shop Now <FaArrowRight className='arrow-icon'/>
+                    </button>
+                </Link> 
             </div>
         </div>
     </div>
