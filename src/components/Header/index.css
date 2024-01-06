@@ -49,4 +49,13 @@
         height: 60px;
         width: 180px;
     }
+    .app-container{
+        width: 100vw;
+    }
+    .website-logo-image{
+        margin: 5px;
+    }
+    .nav-items{
+        margin: 5px;
+    }
 }

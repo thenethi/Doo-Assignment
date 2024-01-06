@@ -27,7 +27,6 @@ const CartItem = props => (
       const totalPrice = price * itemsCount
 
       return (
-        
         <li className="cart-item">
           <img className="cart-product-image" src={image} alt={title} />
           <div className="cart-item-details-container">

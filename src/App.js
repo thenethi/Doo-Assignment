@@ -35,7 +35,7 @@ class App extends Component {
   decrementCartItemQuantity = id => {
     const {cartList} = this.state
     const productObject = cartList.find(eachCartItem => eachCartItem.id === id)
-    if (productObject.quantity > 1) {
+    if (productObject.itemsCount > 1) {
       this.setState(prevState => ({
         cartList: prevState.cartList.map(eachCartItem => {
           if (id === eachCartItem.id) {
